@@ -1,0 +1,7 @@
+git clone (link del repo, para "descargarlo")
+
+git add (nombre del archivo, o . para todo, para agregarlo al git)
+
+git commit -m (agregar una descripcion a el archivo mas reciente)
+
+git push (para subir archivo a github)
